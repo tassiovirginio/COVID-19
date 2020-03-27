@@ -4,7 +4,7 @@ Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel
 ## Brasil (Suspeitos e Confirmados) 
 O arquivo ```data/casos-br-total.csv``` até o momento trás o número total de casos suspeitos, confirmados e mortes no Brasil. Suas informações foram compiladas no script ```COVID-19_Brasil.ipynb```. Como foi interrompido o reporte de casos suspeitos, traremos aqui apenas os casos confirmados e as projeçoes.
 
-![Casos Confirmados no Brasil](/COVID-19/blob/master/imagens/Confirmados-Total.png)
+![Casos Confirmados no Brasil](/COVID-19/raw/master/imagens/Confirmados-Total.png)
 
 ## Mundo (Casos Confirmados)
 O notebook ```COVID-19_Mundial.ipynb``` compila as informações do mundo inteiro, divididas por região. As informações foram retiradas do repositório: https://github.com/CSSEGISandData/COVID-19 <br>
