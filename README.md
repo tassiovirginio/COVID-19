@@ -28,11 +28,13 @@ O notebook ```COVID-19_China.ipynb``` produz o gráfico apresentado na <a target
 ![Casos por dia, China](/imagens/china-pordia.png)
 
 
-## Comparação dos dados entre Itália e Brasil
+## Comparação dos dados entre Itália, USA, KS e Brasil
 
-Casos confirmados na Itália e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.
+Casos confirmados na Itália, USA, KS e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.
 
-![Casos confirmados na Itália e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.](/imagens/covid-italia-projecao.png)
+![Casos confirmados na Itália, USA, KS e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.](/imagens/curva_brasil_italia_US_KS.png)
+
+![Casos confirmados na Itália, USA, KS e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.](/imagens/curva_brasil_italia_US_KS_day_confirm.png)
 
 Taxas de crescimento da Itália.
 
