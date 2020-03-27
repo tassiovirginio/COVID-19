@@ -15,8 +15,18 @@ O resultado do notebook mundial é um gif animado com o avanço dos casos **conf
 ![Casos confirmados ao redor do mundo](/imagens/mundial-covid19.gif)
 
 #### Situação Mundial
-<img style="width: 49%;" src="/imagens/log.png" />
-<img style="width: 49%;" src="/imagens/abs.png" />
+<table>
+<tr>
+<td>
+<img style="width: 100%;" src="/imagens/log.png" />
+</td>
+<td>
+<img style="width: 100%;" src="/imagens/abs.png" />
+</td>
+</tr>
+</table>
+
+
 
 ## China
 
