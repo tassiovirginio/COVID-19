@@ -24,6 +24,9 @@ O notebook ```COVID-19_China.ipynb``` produz o gráfico apresentado na <a target
 
 ![Casos por dia, China](/imagens/data-covid19-china.gif)
 
+![Casos por dia, China](/imagens/china-pordia.png)
+
+
 ## Comparação dos dados entre Itália e Brasil
 
 Casos confirmados na Itália e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.
